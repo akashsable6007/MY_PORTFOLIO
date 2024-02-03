@@ -1,0 +1,65 @@
+
+.navbar{
+    height: 5rem;
+    width: 100vw;
+    background-color: rgb(41, 37, 37);
+    color: #fff;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    box-shadow: 2px 2px 2px #fff;
+}
+
+.menu{
+    cursor: pointer;
+    /* margin: 1rem; */
+    display: flex;
+    gap: 3rem;
+}
+
+
+
+.navlinks{
+    font-size: 18px;
+    width: 8rem;
+    padding: 0.6rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-weight: 500;
+    transition: 0.8s ease-in-out;
+}
+
+.navlinks:hover{
+    /* color: yellow; */
+    color: black;
+    background-color: #fff;
+    border-bottom: 1px solid;
+    font-weight: 600;
+    transition: 0.8s ease-in-out;
+}
+
+.git-btn{
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    width: 10rem;
+    font-weight: 600;
+    transition: 0.5s ease-in-out;
+}
+
+.git-btn:hover{
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+    /* border: 2px solid; */
+    transition: 0.5s ease-in-out;
+}
+
+.portfolio-name h3{
+    font-size: 25px;
+}
+
