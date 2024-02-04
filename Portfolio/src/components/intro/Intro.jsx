@@ -8,7 +8,7 @@ import { Link } from 'react-scroll';
 const Intro = () => {
   return (
     <>
-        <section className="intro-section">
+        <section className="intro-section" id='intro'>
             <div className="intro-content">
                 <span className='Hello' >Hello,</span>
                 <span className="intro-text animate__animated animate__lightSpeedInLeft">I'm 

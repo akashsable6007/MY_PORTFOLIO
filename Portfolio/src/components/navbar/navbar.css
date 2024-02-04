@@ -18,7 +18,7 @@
     cursor: pointer;
     /* margin: 1rem; */
     display: flex;
-    gap: 3rem;
+    gap: 1rem;
 }
 
 
@@ -49,6 +49,7 @@
     width: 10rem;
     font-weight: 600;
     transition: 0.5s ease-in-out;
+
 }
 
 .git-btn:hover{
@@ -61,5 +62,15 @@
 
 .portfolio-name h3{
     font-size: 25px;
+}
+
+button a{
+    text-decoration: none;
+    color: #3e0707;
+
+}
+
+button a:hover{
+    color: #f7f7f7;
 }
 
