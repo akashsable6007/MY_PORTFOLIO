@@ -55,7 +55,7 @@ const Project = () => {
                 <h5>Tech-Stack: React.js, Html, Css</h5>
                 <p>Created a personal portfolio website to showcase professional experience, skills, and projects.</p>
             </div>
-            <a href="https://github.com/akashsable6007/MY_PORTFOLIO/tree/main/Portfolio">LIVE DEMO</a>
+            <a href="https://portfolio-hainqiugs-akashsables-projects.vercel.app/">LIVE DEMO</a>
         </div>
     </div>
     </section>
