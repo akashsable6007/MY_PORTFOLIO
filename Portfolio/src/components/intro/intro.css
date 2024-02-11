@@ -75,3 +75,17 @@
     color: #fff;
     transition: 0.5s ease;
 }
+
+
+@media (max-width:420px) {
+    .into-img{
+        height: 250px;
+        width: 250px;
+    }
+
+   .intro-content{
+    margin-left: 20%;
+    margin-top: 20%;
+   }
+    
+}

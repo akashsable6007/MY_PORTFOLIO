@@ -1,0 +1,65 @@
+#contact{
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.contact-name{
+    text-align: center;
+    margin: 1.5rem;
+    font-size: 1.8rem;
+    padding: 1rem;
+    letter-spacing: 3px;
+}
+
+.contact-name h3{
+    border: 1px solid;
+    padding: 1rem;
+    box-shadow: 2px 2px 12px rgb(255, 251, 0);
+    border-radius: 0.5rem;
+}
+
+.form-container{
+    /* background-color: aqua; */
+    width: 50%;
+    margin-left: 25%;
+    box-shadow: 1px 1px 20px #fff;
+    border-radius: 0.8rem;
+    /* text-align: center; */
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    /* background-color: aqua; */
+}
+
+input{
+    width: 40%;
+    height: 2rem;
+    border: 1px solid;
+    border-radius: 0.6rem;
+    margin-top: 1rem;
+    color: white;
+    background: transparent;
+}
+
+textarea {
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 0.2rem;
+    color: #fff;
+}
+
+.email-btn{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    background-color: black;
+    color: #fff;
+}

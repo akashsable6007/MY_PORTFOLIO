@@ -35,12 +35,6 @@ const About = () => {
               <td>77%</td>
               <td>2023</td>
             </tr>
-            <tr>
-              <th>Full-Stack Developement</th>
-              <td>ChankyaUni</td>
-              <td>90%</td>
-              <td>2023</td>
-            </tr>
           </table>
           </div>
         </div>

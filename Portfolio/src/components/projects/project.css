@@ -22,8 +22,8 @@
 }
 
 .project-container{
-    height: 26rem;
-    width: 25rem;
+    height: 24rem;
+    width: 23rem;
     background-color: #000000;
     box-shadow: 1px 1px 5px;
     border-radius: 5px;
@@ -53,7 +53,7 @@ img{
 
 .project-container a{
     text-decoration: none;
-    margin-left: 260px;
+    margin-left: 180px;
     background-color: black;
     color: #fff;
     padding: 4px;

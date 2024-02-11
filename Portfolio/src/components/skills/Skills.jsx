@@ -6,6 +6,7 @@ import css from '../../assets/css.png';
 import js from '../../assets/js.png';
 import react from '../../assets/react.png';
 import redux from '../../assets/redux.avif';
+import github from '../../assets/github.png';
 
 
 const Skills = () => {
@@ -37,6 +38,16 @@ const Skills = () => {
                 <div className="html-skill">
                     <div className="redux-name animate__animated animate__bounceInRight">REDUX
                     <img src={redux} className='redux-img' />
+                    </div>
+                </div>
+                <div className="html-skill">
+                    <div className="redux-name animate__animated animate__bounceInRight">REDUX-TOOLKIT
+                    <img src={redux} className='redux-img' />
+                    </div>
+                </div>
+                <div className="html-skill">
+                    <div className="git-name animate__animated animate__bounceInRight">GIT-HUB
+                    <img src={github} className='redux-img' />
                     </div>
                 </div>
             </div>
